@@ -2,7 +2,7 @@
 
 ### Exploring Machine Learning • Building Projects • Understanding How ChatGPT Works
 
-🎓 Second-Year Engineering Student
+🎓 Second-Year Engineering Student @ MIT, Bengaluru
 
 🧠 Currently learning Machine Learning, Data Analytics, DSA, and AI Engineering
 
