@@ -41,3 +41,9 @@ Since then, I've been learning in public, building projects, and documenting my 
 - Machine Learning
 - Data Analytics
 - AI Engineering
+
+## 📈 GitHub Stats
+
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishabhSingh290306&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhSingh290306&layout=compact)
