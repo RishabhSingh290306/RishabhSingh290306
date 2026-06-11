@@ -60,9 +60,19 @@ I'm documenting my journey publicly while building projects and learning everyth
 
 ---
 
-## 📊 Contribution Graph
+## 💭 Why AI?
 
-[![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishabhSingh290306\&theme=tokyo-night)](https://github.com/RishabhSingh290306)
+One day while using tools like ChatGPT, Claude, and Gemini, I found myself asking a simple question:
+
+> **"How does this actually work?"**
+
+How can a machine understand language, answer questions, write code, and hold conversations that feel almost human?
+
+That curiosity sparked a journey into Machine Learning, Neural Networks, and Large Language Models.
+
+Today, I'm learning in public, building projects, and documenting everything I discover along the way.
+
+This GitHub profile serves as my digital notebook—a place where I share my progress, experiments, projects, and insights as I work toward understanding AI from first principles.
 
 ---
 
