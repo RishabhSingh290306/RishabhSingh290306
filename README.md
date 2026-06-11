@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a second-year engineering student exploring Machine Learning, Data Analytics, and AI Engineering.
+I'm a second-year engineering student exploring Machine Learning, Data Analytics, AI Engineering, and Full-Stack Development.
 
 Inspired by a simple question:
 
@@ -24,12 +24,14 @@ Inspired by a simple question:
 
 I'm documenting my journey publicly while building projects and learning everything from Python fundamentals to modern AI systems.
 
+Along the way, I enjoy building end-to-end applications using modern development tools and Firebase, turning ideas into real, deployable products.
+
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,firebase,git,github,vscode" />
 </p>
 
 ### Data Analytics
@@ -44,6 +46,14 @@ I'm documenting my journey publicly while building projects and learning everyth
 * Machine Learning
 * Data Analytics
 * AI Engineering
+
+### Building With
+
+* Full-Stack Web Development
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Hosting
+* AI-Assisted Development
 
 ---
 
