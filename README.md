@@ -61,7 +61,7 @@ I'm documenting my journey publicly while building projects and learning everyth
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=RishabhSingh290306&style=for-the-badge" />
 </p>
 ---
 
