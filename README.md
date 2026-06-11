@@ -14,11 +14,7 @@
 
 I'm a second-year engineering student exploring Machine Learning, Data Analytics, and AI Engineering.
 
-My journey started with a simple question:
-
-"How does ChatGPT actually work?"
-
-Since then, I've been learning in public, building projects, and documenting my progress as I work toward understanding Neural Networks, Transformers, and Large Language Models.
+Inspired by a simple question — "How does ChatGPT actually work?" — I'm documenting my journey from Python fundamentals to Neural Networks, Transformers, and Large Language Models.
 ## 🛠️ Technologies & Tools
 
 **Languages**
