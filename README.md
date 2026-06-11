@@ -60,11 +60,11 @@ I'm documenting my journey publicly while building projects and learning everyth
 
 ---
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RishabhSingh290306&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Rishabh%20Singh&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
----
 
-### Thanks for stopping by! 🚀
-
-I'm currently documenting my AI journey, building projects, and sharing what I learn along the way.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
+</p>
