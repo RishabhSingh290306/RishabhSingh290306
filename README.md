@@ -19,3 +19,25 @@ My journey started with a simple question:
 "How does ChatGPT actually work?"
 
 Since then, I've been learning in public, building projects, and documenting my progress as I work toward understanding Neural Networks, Transformers, and Large Language Models.
+## 🛠️ Technologies & Tools
+
+**Languages**
+- Python
+- C++
+
+**Data Analytics**
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+**Currently Exploring**
+- Machine Learning
+- Data Analytics
+- AI Engineering
