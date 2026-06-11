@@ -60,25 +60,14 @@ I'm documenting my journey publicly while building projects and learning everyth
 
 ---
 
-## 💭 Why AI?
+## 📈 Profile Summary
 
-One day while using tools like ChatGPT, Claude, and Gemini, I found myself asking a simple question:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RishabhSingh290306&theme=tokyonight)
 
-> **"How does this actually work?"**
-
-How can a machine understand language, answer questions, write code, and hold conversations that feel almost human?
-
-That curiosity sparked a journey into Machine Learning, Neural Networks, and Large Language Models.
-
-Today, I'm learning in public, building projects, and documenting everything I discover along the way.
-
-This GitHub profile serves as my digital notebook—a place where I share my progress, experiments, projects, and insights as I work toward understanding AI from first principles.
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=RishabhSingh290306\&theme=tokyonight\&no-frame=true\&row=1)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RishabhSingh290306&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RishabhSingh290306&theme=tokyonight" />
+</p>
 
 ---
 
