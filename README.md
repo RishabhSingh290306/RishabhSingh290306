@@ -60,15 +60,9 @@ I'm documenting my journey publicly while building projects and learning everyth
 
 ---
 
-## 📈 Profile Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RishabhSingh290306&theme=tokyonight)
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RishabhSingh290306&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RishabhSingh290306&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 ### Thanks for stopping by! 🚀
