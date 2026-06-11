@@ -1,6 +1,8 @@
 # Hi, I'm Rishabh Singh 👋
 
-### Exploring Machine Learning • Building Projects • Understanding How ChatGPT Works
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Exploring+Machine+Learning;Building+Projects;Understanding+How+ChatGPT+Works;Future+AI+Engineer" alt="Typing SVG" />
+</p>
 
 🎓 Second-Year Engineering Student @ MIT, Bengaluru
 
