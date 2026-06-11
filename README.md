@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Rishabh%20Singh&fontAlign=50&fontAlignY=40&color=gradient" />
+</p>
 # Hi, I'm Rishabh Singh 👋
 
 <p align="center">
@@ -59,11 +62,9 @@ I'm documenting my journey publicly while building projects and learning everyth
 </p>
 
 ---
+<img src="https://readme-typing-svg.demolab.com?...">
 
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Rishabh%20Singh&fontAlign=50&fontAlignY=40&color=gradient" />
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
