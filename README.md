@@ -65,7 +65,7 @@ Along the way, I enjoy building end-to-end applications using modern development
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RishabhSingh290306&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=RishabhSingh290306&theme=tokyonight&v=2" />
 </p>
 
 ---
