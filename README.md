@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a second-year engineering student exploring Machine Learning, Data Analytics, AI Engineering, and Full-Stack Development.
+I'm a second-year engineering student exploring Machine Learning, Data Analytics, AI Engineering, Databases, and Full-Stack Development.
 
 Inspired by a simple question:
 
@@ -31,22 +31,25 @@ Along the way, I enjoy building end-to-end applications using modern development
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,firebase,mysql,git,github,vscode" />
 </p>
 
-### Data Analytics
+### Data Analytics & Databases
 
 * NumPy
 * Pandas
 * Matplotlib
 * Seaborn
+* MySQL
 
 ### Currently Exploring
 
+* Data Structures & Algorithms
 * Machine Learning
+* SQL & Database Design
 * Data Analytics
 * AI Engineering
-
+  
 ### Building With
 
 * Full-Stack Web Development
