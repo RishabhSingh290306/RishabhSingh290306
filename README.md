@@ -30,37 +30,54 @@ Along the way, I enjoy building end-to-end applications, analyzing real-world da
 
 ## 🛠️ Technologies & Tools
 
+### Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,firebase,postgres,mysql,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Data Analytics & Databases
 
-- PostgreSQL
-- MySQL
-- Power BI
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</p>
+
+### Development & Cloud
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ### Currently Exploring
 
-- Data Structures & Algorithms
-- Machine Learning
-- Advanced SQL
-- Data Analytics
-- AI Engineering
+- 📚 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 🧠 AI Engineering
+- 🗄️ Advanced SQL & Database Design
+- 📊 Data Analytics & Business Intelligence
 
 ### Building With
 
-- Full-Stack Web Development
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Hosting
-- AI-Assisted Development
-- Power BI Dashboards
-- PostgreSQL Database Design
+- 🌐 Full-Stack Web Development
+- 🔥 Firebase Authentication
+- ☁️ Cloud Firestore
+- 🚀 Firebase Hosting
+- 📈 Power BI Dashboards
+- 🐘 PostgreSQL Database Design
+- 🤖 AI-Assisted Development
 
 ---
 
